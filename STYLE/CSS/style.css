@@ -1,0 +1,15 @@
+nav ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+}
+nav a:hover{
+    color: red;
+}
+section{
+    margin-top: 50px;
+}
+.container{
+    border: 1px solid black;
+    height: 500px;
+}
